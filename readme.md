@@ -2,8 +2,6 @@
 
 This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
 
-<img style="display: block; float: left; width: 45%; margin-right: 10px; " src="../../img/../../img/escrowProject1.png">
-<img style="display: block; width: 50%;" src="../../img/../../img/escrowProject2.png">
 
 ## Project Layout
 
